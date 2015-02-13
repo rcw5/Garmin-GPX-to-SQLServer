@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="gpx-file"
+  DTS:DTSID="{436C5ACE-157B-468F-B705-00B2B99BB216}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\Users\Administrator\Documents\Visual Studio 2013\projects\Garmin GPX to SQLServer\Garmin GPX to SQLServer\gpx-sample.GPX" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
